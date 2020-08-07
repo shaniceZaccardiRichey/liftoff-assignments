@@ -1,5 +1,5 @@
 ### Schema
-shorturl.at/alsFH
+https://bit.ly/3ijDrTE
 
 ### Wireframes
 - Login: https://wireframe.cc/TRSeus
