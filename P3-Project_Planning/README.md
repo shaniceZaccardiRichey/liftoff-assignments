@@ -39,4 +39,4 @@ https://trello.com/b/8u0VIJ5y/capstone-project
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/shaniceZaccardiRichey/RecipeBuddy
