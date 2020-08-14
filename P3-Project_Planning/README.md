@@ -1,10 +1,12 @@
 ### Schema
 shorturl.at/alsFH
+*Still adjusting this, so I linked the WIP.
 
-### Wireframes
-- Login: https://wireframe.cc/TRSeus
+### Initial Wireframes
+- Login: https:https://wireframe.cc/TRSeus
 - Create Recipe: https://wireframe.cc/KkttFo
-- Generate Shopping List: 
+- View Recipes: 
+*Images in P3 folder.
 
 ### User Stories
 - As a [user], 
@@ -39,4 +41,4 @@ https://trello.com/b/8u0VIJ5y/capstone-project
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/shaniceZaccardiRichey/RecipeBuddy
