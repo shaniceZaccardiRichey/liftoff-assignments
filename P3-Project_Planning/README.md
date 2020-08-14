@@ -4,7 +4,7 @@ https://bit.ly/3ijDrTE
 ### Wireframes
 - Login: https://wireframe.cc/TRSeus
 - Create Recipe: https://wireframe.cc/KkttFo
-- Generate Shopping List: 
+- Display Recipes: 
 
 ### User Stories
 - As a [user], 
